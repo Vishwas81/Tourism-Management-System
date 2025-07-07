@@ -1,0 +1,21 @@
+# === PHP defaults ===
+vendor/
+node_modules/
+.env
+.env.*
+composer.lock
+composer.phar
+*.log
+*.sql
+*.sqlite
+.idea/
+*.zip
+*.bak
+*.tar.gz
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === VSCode ===
+.vscode/
